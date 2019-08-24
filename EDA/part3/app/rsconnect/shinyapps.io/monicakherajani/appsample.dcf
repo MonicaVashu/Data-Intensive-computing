@@ -1,0 +1,13 @@
+name: appsample
+title: appsample
+username:
+account: monicakherajani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 775575
+bundleId: 1926449
+url: https://monicakherajani.shinyapps.io/appsample/
+when: 1552083636.25696
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

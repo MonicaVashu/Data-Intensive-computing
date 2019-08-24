@@ -1,0 +1,13 @@
+name: R_app
+title: R_app
+username:
+account: vaidehidhr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 775558
+bundleId: 1925475
+url: https://vaidehidhr.shinyapps.io/R_app/
+when: 1552059331.75951
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
